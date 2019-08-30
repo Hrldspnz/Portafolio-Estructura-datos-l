@@ -1,0 +1,8 @@
+Que es un objeto?
+
+Es una instancia porducida a partir de un molde (en el caso de programacion seria una clase),
+estos tienen comportamientos y atributos y pueden diferir en algunas cosas.
+Pueden ser objetos simples o compuestos, es todo lo que se pueda ver en el mundo real
+
+La programacion orientada a objetos tiene como fin poder reutilizar clases existentes,
+creadas previamente para aumentar la eficiencia y ahorrar tiempo.  

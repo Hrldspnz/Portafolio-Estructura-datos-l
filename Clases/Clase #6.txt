@@ -1,0 +1,36 @@
+-UML
+Estandar de modelado o diseño
+El modelado es imporante para comunicar la estructura 
+Visualizar y controlar la arquitectura 
+Enteder el sistema que se contruye 
+Administrar riegos por medio de modelos 
+
+-UML tiene 3 tipos
+	Modelo funcional 
+	Modelo de objeto
+	Modelo dinamico
+
+Cada modelo tiene un set de diagramas 
+Uno de los mas comunes es el diagrama de clases 
+
+-Diagrama de clases 
+Tambien conocido como vista estatica
+Calcula la estructura del objeto, incluye la estructura de datos y operaciones de datos
+No contiene info relacionada al comportamiento dinamico
+
+La clase es representada por un cuadro separado en 3 partes: 
+La primera es el nombre de la clase, luego los atributos y por ultimo los metodos
+
+-Relaciones
+	Asosiacion: relacion de 2 clases: ———————
+	Dependencia: dependencia de otro elemento: ------>
+	Generalizacion: herencia y polimorfismo: ————————> (flecha cerrada)
+	Realizacion: relacion entre elementos e implementacion: ---------> (flecha cerrada)
+
+-Historias de usuario
+Analiza los requerimientos del usuario
+Se recolectan los requerimientos con oraciones simples
+
+-Desarrollar Prototipos
+Es una version pequeña del sistema o una parte de el para mostrar detalles,
+acciones que realiza y otros (que hace y como lo hace) 

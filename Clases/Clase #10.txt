@@ -1,0 +1,19 @@
+-Lista circular
+Una lista donde cada nodo tiene un sucesor, y el ultimo apunta al primero
+Se puede combinar con la doble lista para ir en ambas direcciones
+	A1<---->A2<---->A3
+	|________________|
+
+Para borrar solo cambia un poco en el caso del ultimo nodo
+	location.next = location.next.next
+Para insertar un nodo se hace de la misma manera
+
+-Cuando se puede utilizar?
+Se necesita ir en ambos sentidos de manera rapida
+Es mas facil encontrar elementos en los extremos y operaciones como BetweenIn()
+
+-Pila 
+Aplica la forma LIFO (Last Input, First Output)
+Puede verse como ejemplo una pila de platos, donde primero se saca el ultimo en ser puesto
+Se usa mucho en procesadores, compiladores
+Hay muchos algoritmos que necesitan filas

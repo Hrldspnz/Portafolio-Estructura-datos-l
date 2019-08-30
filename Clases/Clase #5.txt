@@ -1,0 +1,30 @@
+-For Each
+Es una variante del for y es muy similar pero mas corta
+
+-Switch
+De acuerdo con el valor de una variable realiza una u otra accion 
+Finaliza con un break para separar las demas instrucciones y que no se ejecuten
+tiene un default para el caso de que no cumpla ninguna condicion 
+
+-Arrays(Arreglos)
+Son como listas en python, pero tienen una longitud definida y solo almacena variables del mismo tipo
+Puede ser de n x 1, n x m, n x m x p
+Sus valores van de 0 a n-1
+	int[] array1 = new int[7]; // Es de 1 dimension, el 7 es la cantidad de valores
+	array1[0] = S; // System.Out.println("El valor es: " + array1[0])
+
+	int[][] matriz = new int[3][3];
+	matriz[1][1] = 8;
+
+Se pueden definir todos los valores desde el principio
+
+-Clase Vector 
+Tiene 10 elementos que se duplican una vez alcanzado el limite
+Se puede definir con cuanto inicia, cuando deja de crecer y el tipo de elemento que almacena
+Se pueden guardar elementos de diferente tipo, pero lo guarda como objeto 
+Se pueden añadir elementos con addelement
+Determinar su tamaño
+Remover algun elemento
+acceso a elementos
+
+En una clase siempre debe ser igual el nombre del archivo, de la clase y el operador

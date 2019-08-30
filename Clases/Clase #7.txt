@@ -1,0 +1,28 @@
+-Patrones de diseño
+Es una regularidad disernible, algo que se repite de forma constante, en software se planteo para resolver problemas
+se reusan partes que funcionaron anteriormente, pero no se debe implementar de manera forzada se debe analizar si es posible
+implementarlo sin muchas complicaciones
+Contiene una descripcion dada por el diagrama de clases
+Es una buena practica
+Tiene mucha utilidad aprenderlos para mayor eficiencia y definir una forma para comunicarse en el equipo de trabajo
+
+-Los patrones se clasifican en:
+	Propositos: para que se usara 
+	Scope: si el patron se aplica a clases u objetos
+
+-Patrones de creacion
+Ayuda a que el sistema sea independiente en la creacion de objetos
+Encapsula sobre que clases usa el programa
+
+-Singleton
+Asegura que solo haya una instancia de una misma clase y establece un punto de acceso global
+Se asegura que no se creen otras instancias
+Da una forma de acceder a la instancia 
+Hace un constructor privado
+(Revisar codigos de Refacturing.guru)
+Viola el principio de responsabilidad unica
+
+-Abstract factory 
+Se crea una instancia de obetos relacionados sin especificar su clase concreta
+Sirve para ocultar la complejidad de lo que hay debajo
+Mantiene una estrutura fija y ordenada

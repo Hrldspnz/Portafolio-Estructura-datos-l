@@ -1,0 +1,33 @@
+-Interface
+Se implementa y solo tiene los metodos pero no estan especificados 
+
+-Clase Abstracta
+Se hereda y puede especificar los metodos 
+
+-Facade(fachada)
+Una interfaz que unifica un set de interfaces 
+Define un nivel de interfaz mas facil de usar
+Para acceder a todos los elementos que son necesarios
+tiene colaboraciones 
+	Se comunica con el subsistema
+	El cliente no tiene acceso al subsistema
+
+-Adapter
+Convierte la interface de una clase en la interfaz que espera el cliente
+Permite a las clases trabajar juntas, sin el adaptador seria imposible
+
+-Patrones de comportamiento
+
+-Observador
+Cuando se modifica un objeto, todos sus dependientes son notificados y actualizados
+
+-Patrones de arquitectura
+
+-Modelo de vista-controlador (MVC)
+Es uno de los mas comunes 
+Divide el sistema en tres partes: iterface, datos, controlador
+Es un estandar para desarrollo web
+Cada parte debe poder ser independiente para poder ser cambiado con facilidad y sin afectar a las demas partes
+
+
+-Modelo

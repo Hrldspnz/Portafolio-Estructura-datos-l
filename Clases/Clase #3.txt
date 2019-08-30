@@ -1,0 +1,11 @@
+-Modularidad
+
+Se agrupan clases relacionadas entre si, (para ordenar) en Java son paquetes o "carpetas"
+Usar paradigma "divide y venceras", es decir descomponer el problema y hacerlo por partes
+
+-JAVA
+Es uno de los leguajes mas completos 
+Es portable ya que es un hibrido de compilador e interprete, por medio de la maquina virtual de java
+La maquina de java traduce el Bytecode al lenguaje de maquina 
+
+-- Para mayor detalle visitar la presentacion subida por el profesor al TEC digital --
