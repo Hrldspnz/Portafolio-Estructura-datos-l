@@ -28,6 +28,3 @@ Es uno de los mas comunes
 Divide el sistema en tres partes: iterface, datos, controlador
 Es un estandar para desarrollo web
 Cada parte debe poder ser independiente para poder ser cambiado con facilidad y sin afectar a las demas partes
-
-
--Modelo
