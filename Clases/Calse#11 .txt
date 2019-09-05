@@ -1,0 +1,63 @@
+## Pila
+Tiene los metodos:
+Pop: lee y elimina el elemento
+Push: añade el elemento
+Peek: lee pero no elimina el elemento 
+
+La pila solo puede utilizar estos elementos
+
+## Colas
+Aplica la forma FIFO (First In First Out)
+Tiene 3 metodos
+Enqueue: añade un elemnto al final de la lista
+Dequeue: devuelve y quita el primer elemento
+Peek: lee pero no borra el primer elemento
+Los sistemas operativos por ejemplo utilizan colas de marena bastante compleja
+Retringir el tamaño de la cola permite la gestion de recursos(por medio de arrays)
+
+## Colas de prioridad 
+Es mas especializada que la cola y la pila 
+Es muy util en muchas ocaciones ejemplo de ello pueden ser los hospitales, Sistemas Operativos y otros
+Es como una cola normal pero los elementos se acomodan en una cola dependiendo de su prioridad
+
+##Algoritmo
+Secuencia de pasos precisos que se ejecuta en un tiempo finito
+Una coleccion de efectivas y no ambiguas operaciones computacionales que llegan a un resultado en un monto de tiempo finito
+
+Con finito se refiere a que termina luego de un numero de pasos
+
+Definitivo: cada paso es precisamente definido, no hay ambiguedad
+Entrada esta bien definida
+Tiene una salida
+Son efectivos, es decir, cumplen su proposito
+Deterministicos, la misma entrada produce la misma salida
+
+## Metodo de analisis
+Se refiere a estimar que tant5o consume en tiempo computacional 
+
+### Porque analisar un algoritmo?
+Evaluar su efuicencia en una aplicacion 
+Se compara con otros para determinar cual es el mejor 
+Clasificar los problemas y algoritmos por dificultad 
+Predecir eficiencia, comparar y cuantos parametros
+Entender mejor y mejorar implementaciones y algoritmos
+
+### Que afecta el tiempo de funcion?
+CPU
+Compilador
+Lenguaje de programacion 
+Sistema operativo
+Desarrollador(Cada persona programa diferente)
+Tamaño de entrada 
+Aplicaciones corriendo en segundo plano 
+
+### Como compararlo?
+Tiempo de CPU
+Espacio de memoria
+Ancho de banda
+Dispositivos perifericos
+Cualquier recurso de la computadora
+
+
+
+
