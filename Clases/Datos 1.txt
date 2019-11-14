@@ -1,2 +1,2 @@
 En la wiki de este repositorio se encuentran los apuntes de las clases del curso Estructora de datos 1
-Este cuenta con un total de 28 clases
+Este cuenta con un total de 29 clases
