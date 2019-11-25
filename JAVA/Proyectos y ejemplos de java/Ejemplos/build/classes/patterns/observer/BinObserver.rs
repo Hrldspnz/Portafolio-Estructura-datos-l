@@ -1,0 +1,1 @@
+patterns.observer.BinObserver
